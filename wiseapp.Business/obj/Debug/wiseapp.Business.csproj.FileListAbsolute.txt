@@ -1,0 +1,9 @@
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\wiseapp.Business.dll.config
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\wiseapp.Business.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\wiseapp.Business.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\obj\Debug\wiseapp.Business.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Business\obj\Debug\wiseapp.Business.pdb

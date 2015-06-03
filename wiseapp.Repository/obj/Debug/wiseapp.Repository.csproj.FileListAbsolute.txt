@@ -1,0 +1,12 @@
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\wiseapp.Repository.dll.config
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\wiseapp.Repository.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\wiseapp.Repository.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\wiseapp.Business.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\wiseapp.Business.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\obj\Debug\wiseapp.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\obj\Debug\wiseapp.Repository.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Repository\obj\Debug\wiseapp.Repository.pdb

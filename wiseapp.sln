@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiseapp", "wiseapp\wiseapp.csproj", "{18F65DD6-C448-401E-B4E6-F5D3E5F49980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Presentation", "1 Presentation", "{434B383F-F512-4BBA-8292-7EF4DAF50626}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Business", "2 Business", "{CD9FD86F-3439-4D7C-B1A7-28F80537CD6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Repository", "3 Repository", "{0F0100A1-96AB-489E-9014-DB71DA70D38B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Service", "4 Service", "{0C3A41EB-953F-4C9B-BFA7-DBB7F658BFDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Test", "5 Test", "{BF3720E8-D80E-4B92-803D-DD2E5772D7D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiseapp.Business", "wiseapp.Business\wiseapp.Business.csproj", "{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiseapp.Repository", "wiseapp.Repository\wiseapp.Repository.csproj", "{0C153D40-9FAC-42C3-A3F1-F6D839CB003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiseapp.Service", "wiseapp.Service\wiseapp.Service.csproj", "{535CD89F-A244-4BA0-964D-E1A678FE06DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiseapp.Test", "wiseapp.Test\wiseapp.Test.csproj", "{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F65DD6-C448-401E-B4E6-F5D3E5F49980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F65DD6-C448-401E-B4E6-F5D3E5F49980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F65DD6-C448-401E-B4E6-F5D3E5F49980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F65DD6-C448-401E-B4E6-F5D3E5F49980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C153D40-9FAC-42C3-A3F1-F6D839CB003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C153D40-9FAC-42C3-A3F1-F6D839CB003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C153D40-9FAC-42C3-A3F1-F6D839CB003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C153D40-9FAC-42C3-A3F1-F6D839CB003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535CD89F-A244-4BA0-964D-E1A678FE06DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535CD89F-A244-4BA0-964D-E1A678FE06DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535CD89F-A244-4BA0-964D-E1A678FE06DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535CD89F-A244-4BA0-964D-E1A678FE06DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18F65DD6-C448-401E-B4E6-F5D3E5F49980} = {434B383F-F512-4BBA-8292-7EF4DAF50626}
+		{B3EBE6B1-F214-4C8A-A1FB-07AEEDDDFD7A} = {CD9FD86F-3439-4D7C-B1A7-28F80537CD6C}
+		{0C153D40-9FAC-42C3-A3F1-F6D839CB003C} = {0F0100A1-96AB-489E-9014-DB71DA70D38B}
+		{535CD89F-A244-4BA0-964D-E1A678FE06DE} = {0C3A41EB-953F-4C9B-BFA7-DBB7F658BFDD}
+		{0DDBBCAC-797C-4E43-ACFB-19FFF666B26A} = {BF3720E8-D80E-4B92-803D-DD2E5772D7D1}
+	EndGlobalSection
+EndGlobal

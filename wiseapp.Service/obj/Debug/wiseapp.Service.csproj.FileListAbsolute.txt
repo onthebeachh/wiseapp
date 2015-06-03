@@ -1,0 +1,11 @@
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Service.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Service.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Business.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Repository.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\EntityFramework.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Business.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\wiseapp.Repository.pdb
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\bin\Debug\EntityFramework.xml
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\obj\Debug\wiseapp.Service.csprojResolveAssemblyReference.cache
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\obj\Debug\wiseapp.Service.dll
+C:\Users\Rama\Documents\Visual Studio 2013\Projects\wiseapp\wiseapp.Service\obj\Debug\wiseapp.Service.pdb
